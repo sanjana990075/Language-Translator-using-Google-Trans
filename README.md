@@ -43,3 +43,6 @@ Adjustable Playback Speed: Users can download the translated audio and adjust it
 Dynamic UI: The vibrant and customizable UI enhances the user experience, making the app more engaging than standard translation tools.
 Comprehensive Integration: The app integrates multiple APIs (Google Translate, SpeechRecognition, gTTS) into a seamless experience for both text and spoken translation.
 Accessibility: The voice input and adjustable playback speed features make the app accessible to people with disabilities or those who find typing difficult.
+
+
+
