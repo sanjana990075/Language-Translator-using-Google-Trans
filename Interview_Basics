@@ -2,3 +2,15 @@
 web applications directly from Python scripts, 
 without writing HTML, CSS, or JavaScript.
 
+-->googletrans is a Python library that provides an unofficial 
+interface to Google Translate, allowing developers to translate 
+text between multiple languages using Python.
+
+-->Translator is a class inside the googletrans library that performs the actual translation.
+
+-->gTTS (Google Text-to-Speech) is a Python library that 
+converts text into spoken audio using Google’s 
+Text-to-Speech engine.
+
+
+
